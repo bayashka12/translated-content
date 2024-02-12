@@ -1,4 +1,4 @@
----
+read://https_stihi.ru/?url=https%3A%2F%2Fstihi.ru%2Favtor%2Fbayashka2016---
 title: "CSS: каскадные таблицы стилей"
 slug: Web/CSS
 ---
